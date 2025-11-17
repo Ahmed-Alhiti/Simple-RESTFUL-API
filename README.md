@@ -1,6 +1,11 @@
 # Simple-RESTFUL-API
 # 🎓 StudentAPI
 
+![C#](https://img.shields.io/badge/Language-C%23-blue)
+![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-green)
+![JSON](https://img.shields.io/badge/Format-JSON-yellow)
+![REST API](https://img.shields.io/badge/Type-REST-red)
+
 **StudentAPI** is a RESTful API built with **ASP.NET Core** for managing student data.  
 It allows you to **add, update, delete, and retrieve students**, calculate the **average grade**, and manage student data efficiently.
 
