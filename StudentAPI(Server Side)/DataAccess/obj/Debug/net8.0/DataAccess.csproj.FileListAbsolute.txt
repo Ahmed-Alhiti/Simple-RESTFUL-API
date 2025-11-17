@@ -1,0 +1,12 @@
+D:\Courses\Courses\25\StudentAPI\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Courses\Courses\25\StudentAPI\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Courses\Courses\25\StudentAPI\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Courses\Courses\25\StudentAPI\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
